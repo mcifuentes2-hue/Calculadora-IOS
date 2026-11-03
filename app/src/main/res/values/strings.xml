@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="msgError">Error</string>
+
+    <string name="addSymbol">+</string>
+    <string name="subtractionSymbol">−</string>
+    <string name="multiplySymbol">×</string>
+    <string name="divideSymbol">÷</string>
+
+    <string name="historyTitle">Historial</string>
+    <string name="historyEmpty">Todavía no hay operaciones registradas</string>
+    <string name="clearHistory">Borrar</string>
+    <string name="back">Atrás</string>
+</resources>
